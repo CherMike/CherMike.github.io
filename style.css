@@ -1,0 +1,44 @@
+body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  margin-top: 0px;
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+/* BEGIN (write your solution here) */
+div, h1, h2, h3, h4 , h5, p{
+    margin-top: 0px;
+    margin-bottom: 0px;}
+#header {
+    text-align: center;
+    margin-bottom: 32px;}
+#main {text-align: justify;
+    margin-top: 50px;
+    margin-bottom: 50px;}
+#footer {
+    text-align: center;
+    margin-top: 64px}
+p {margin-bottom: 12px;}
+.property {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.site {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+h1, h2, h3 {
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h1 {font-size: 36px;}
+h2 {
+    font-size: 32px;
+    border-bottom: 1px grey solid;
+}
+h3 {font-size: 20px;}
+/* END */
